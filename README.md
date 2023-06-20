@@ -12,7 +12,7 @@ The order of work is as follows :‌
 4.  Now we implement the normalized database(**main.sql**)
 
 
-**Note : There are additional explanations in the files**
+**Note : There are additional explanations in <<report_normalization.pdf>>**
 
 follow me on : 
 
